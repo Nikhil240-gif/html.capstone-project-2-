@@ -1,0 +1,50 @@
+.container{
+    height: 500px;
+    width: 50px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.dodla{
+    padding: 50px;
+}
+.my-details{
+    background-color:beige; 
+}
+
+.nik{
+    
+    border-radius: 50%;
+}
+.new{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: beige;
+}  
+.one{
+    background-color:brown;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: blueviolet;
+}
+.four{
+    background-color: aqua;
+}
+.five{
+    background-color: coral;
+}
+.footer{
+    display: flex;
+    padding:10px;
+    justify-content: center;
+    align-items: center;
+}
+.me{
+    list-style-type:  none;
+
+}
